@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=TdITcVD64zI&t=3792s
 06:24:42 | 11 - Manejo de ficheros
 07:00:06 | 12 - JSON y XML
 07:29:09 | Conclusiones
+
+
+GIT RETOS DE PROGRAMACION
+https://github.com/mouredev/roadmap-retos-programacion/tree/main/Roadmap
