@@ -1,0 +1,17 @@
+PARTE 1
+https://www.youtube.com/watch?v=TdITcVD64zI&t=3792s
+00:00:00 | Introducción
+00:05:57 | 0 - Sintaxis, variables, tipos de datos y hola mundo
+00:39:05 | 1 - Operadores y estructuras de control
+01:15:20 | 2 - Funciones y alcance
+01:50:19 | 3 - Estructuras de datos
+02:44:06 | 4 - Cadenas de caracteres
+03:29:33 | 5 - Valor y referencia
+04:01:32 | 6 - Recursividad
+04:38:18 | 7 - Pilas y colas
+05:10:08 | 8 - Clases
+05:32:07 | 9 - Herencia y polimorfismo
+05:57:49 | 10 - Excepciones
+06:24:42 | 11 - Manejo de ficheros
+07:00:06 | 12 - JSON y XML
+07:29:09 | Conclusiones
